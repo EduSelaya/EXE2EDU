@@ -1,0 +1,29 @@
+namespace CopyExeEdu_v1
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void BtnAceptar_Click(object sender, EventArgs e)
+        {
+            using var fbd = new FolderBrowserDialog();
+            fbd.Description = "Selecciona la carpeta raíz donde buscar los archivos .EXE";
+            fbd.ShowNewFolderButton = false;
+            if (fbd.ShowDialog() == DialogResult.OK)
+            {
+                string root = fbd.SelectedPath;
+                this.Hide(); // Hide Form1
+                var progressForm = new ProgressForm(root);
+                progressForm.FormClosed += (s, args) =>
+                {
+                    var completionForm = new CompletionForm();
+                    completionForm.Show();
+                };
+                progressForm.ShowDialog();
+            }
+        }
+    }
+}

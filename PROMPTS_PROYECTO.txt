@@ -1,0 +1,28 @@
+PROMPTS PARA RENOMBRAR .EXE DE LOS PROGRAMAS PORTABLES.
+
+PROYECTO VSC: CopyExeEdu
+
+Prompt 1
+
+Usando el codigo del proyecto CopyExeEdu quiero que le hagas las siguientes modificaciones:
+
+1. En la ventana de inicio reemplazar el label del boton COMENZAR por el texto ".EXE to .EDU"
+2. Agregar un nuevo botón con el label  ".EDU to .EXE"
+
+3. Si se presiona el nuevo botón ".EDU to .EXE" debe realizar la operación inversa, es decir:
+	Abrir un navegador de carpetar para elegir una carp[eta raiz.
+	Buscar por archivos con extension .EDU recursivamente.
+	Realizar una copia de esos archivos y cambiando la extension .EDU por .EXE
+	
+	
+	
+		
+Now I need to add the BtnEduToExe_Click event handler in Form1.cs. Based on the ProgressFormReverse.cs I read earlier, the reverse operation should:
+
+Open a folder browser dialog to select a root folder
+Search for .exe.edu files
+Copy them back to .exe files (removing theNow I need to add the BtnEdu .edu extension)		
+
+
+
+
