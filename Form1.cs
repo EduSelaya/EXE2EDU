@@ -7,7 +7,7 @@ namespace CopyExeEdu_v1
             InitializeComponent();
         }
 
-        private void BtnAceptar_Click(object sender, EventArgs e)
+        private void BtnExe2Edu_Click(object sender, EventArgs e)
         {
             using var fbd = new FolderBrowserDialog();
             fbd.Description = "Selecciona la carpeta raíz donde buscar los archivos .EXE";

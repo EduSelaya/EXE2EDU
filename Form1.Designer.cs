@@ -11,7 +11,7 @@ partial class Form1
     /// Required designer variable.
     /// </summary>
     private System.Windows.Forms.Label label1;
-    private System.Windows.Forms.Button BtnAceptar;
+    private System.Windows.Forms.Button BtnExe2Edu;
 
     /// <summary>
     ///  Clean up any resources being used.
@@ -36,7 +36,7 @@ partial class Form1
     {
         components = new System.ComponentModel.Container();
         label1 = new System.Windows.Forms.Label();
-        BtnAceptar = new System.Windows.Forms.Button();
+        BtnExe2Edu = new System.Windows.Forms.Button();
         SuspendLayout();
         //
         // label1
@@ -49,22 +49,22 @@ partial class Form1
         label1.TabIndex = 0;
         label1.Text = "Seleccione Carpeta para Renombrar Archivos";
         //
-        // BtnAceptar
+        // BtnExe2Edu
         //
-        BtnAceptar.Location = new System.Drawing.Point(195, 100);
-        BtnAceptar.Name = "BtnAceptar";
-        BtnAceptar.Size = new System.Drawing.Size(100, 30);
-        BtnAceptar.TabIndex = 1;
-        BtnAceptar.Text = "COMENZAR";
-        BtnAceptar.UseVisualStyleBackColor = true;
-        BtnAceptar.Click += new System.EventHandler(BtnAceptar_Click);
+        BtnExe2Edu.Location = new System.Drawing.Point(195, 100);
+        BtnExe2Edu.Name = "BtnExe2Edu";
+        BtnExe2Edu.Size = new System.Drawing.Size(100, 30);
+        BtnExe2Edu.TabIndex = 1;
+        BtnExe2Edu.Text = "EXE to EDU";
+        BtnExe2Edu.UseVisualStyleBackColor = true;
+        BtnExe2Edu.Click += new System.EventHandler(BtnExe2Edu_Click);
         //
         // Form1
         //
         AutoScaleMode = AutoScaleMode.Font;
         ClientSize = new Size(480, 200);
         Controls.Add(label1);
-        Controls.Add(BtnAceptar);
+        Controls.Add(BtnExe2Edu);
         Name = "Form1";
         Text = "Realiza Una Copia De Archivos .EXE Con Extension .EDU";
         ResumeLayout(false);
