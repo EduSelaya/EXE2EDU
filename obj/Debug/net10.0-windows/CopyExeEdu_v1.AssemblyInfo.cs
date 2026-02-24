@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CopyExeEdu_v1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c3ec2ca919bc38296e28bfbc6eb89cc21f791e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+379024ac6ce8885f1a7ccf254283c2abbd9101f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CopyExeEdu_v1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CopyExeEdu_v1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
