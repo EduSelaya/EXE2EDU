@@ -12,3 +12,4 @@ C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\obj\Debug\net8.0-windows\refint\CopyExe
 C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\obj\Debug\net8.0-windows\CopyExeEdu_v1.pdb
 C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\obj\Debug\net8.0-windows\CopyExeEdu_v1.genruntimeconfig.cache
 C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\obj\Debug\net8.0-windows\ref\CopyExeEdu_v1.dll
+C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\obj\Debug\net8.0-windows\CopyExeEdu_v1.sourcelink.json

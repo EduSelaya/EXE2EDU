@@ -80,7 +80,7 @@ partial class Form1
         Controls.Add(BtnExe2Edu);
         Controls.Add(BtnEdu2Exe);
         Name = "Form1";
-        Text = "Realiza Una Copia De Archivos .EXE Con Extension .EDU";
+        Text = "Copia De Archivos [.EXE to .EDU] ó [.EDU to .EXE]";
         ResumeLayout(false);
         PerformLayout();
     }
