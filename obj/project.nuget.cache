@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nzKoWY65PYw=",
+  "dgSpecHash": "cdCsNt9OGrA=",
   "success": true,
   "projectFilePath": "C:\\VSCode_Workspace\\ProyC#\\CopyExeEdu_v1\\CopyExeEdu_v1.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\se14537\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
-    "C:\\Users\\se14537\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
-    "C:\\Users\\se14537\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
-    "C:\\Users\\se14537\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.24\\microsoft.netcore.app.host.win-x64.8.0.24.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
