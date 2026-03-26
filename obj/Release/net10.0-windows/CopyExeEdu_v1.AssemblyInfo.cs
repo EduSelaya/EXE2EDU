@@ -11,9 +11,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("CopyExeEdu_v1")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c18e1dd5af41403ae4ddbe446867653aff7b34e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ce7b0d4cc373b2eed5233b3a294e84fa57dd887")]
 [assembly: System.Reflection.AssemblyProductAttribute("CopyExeEdu_v1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CopyExeEdu_v1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

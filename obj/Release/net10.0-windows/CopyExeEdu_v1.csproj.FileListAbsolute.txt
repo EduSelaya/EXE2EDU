@@ -1,0 +1,15 @@
+C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\bin\Release\net10.0-windows\CopyExeEdu_v1.exe
+C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\bin\Release\net10.0-windows\CopyExeEdu_v1.deps.json
+C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\bin\Release\net10.0-windows\CopyExeEdu_v1.runtimeconfig.json
+C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\bin\Release\net10.0-windows\CopyExeEdu_v1.dll
+C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\bin\Release\net10.0-windows\CopyExeEdu_v1.pdb
+C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\obj\Release\net10.0-windows\CopyExeEdu_v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\obj\Release\net10.0-windows\CopyExeEdu_v1.AssemblyInfoInputs.cache
+C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\obj\Release\net10.0-windows\CopyExeEdu_v1.AssemblyInfo.cs
+C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\obj\Release\net10.0-windows\CopyExeEdu_v1.csproj.CoreCompileInputs.cache
+C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\obj\Release\net10.0-windows\CopyExeEdu_v1.sourcelink.json
+C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\obj\Release\net10.0-windows\CopyExeEdu_v1.dll
+C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\obj\Release\net10.0-windows\refint\CopyExeEdu_v1.dll
+C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\obj\Release\net10.0-windows\CopyExeEdu_v1.pdb
+C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\obj\Release\net10.0-windows\CopyExeEdu_v1.genruntimeconfig.cache
+C:\VSCode_Workspace\ProyC#\CopyExeEdu_v1\obj\Release\net10.0-windows\ref\CopyExeEdu_v1.dll
